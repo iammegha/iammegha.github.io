@@ -518,7 +518,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <textarea type="text" class="form-control" name="message" rows="7" data-form-field="Message" id="message-form1-4"></textarea>
                         </div>
             
-                        <span class="input-group-btn"><button href="" type="submit" class="btn btn-form btn-black-outline display-4" style="margin-left: auto;margin-right: auto;">SEND FORM</button></span>
+                        <span class="input-group-btn"><button href="" type="submit" class="btn btn-form btn-black-outline display-4" style="margin-left: auto;margin-right: auto;">SEND</button></span>
                     </form>
                     <br/><br/>
             </div>
@@ -526,80 +526,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
 </section>
 
-<section class="footer3 cid-rgAVLDud0t" id="footer3-k">
+<section class="engine"><a href="https://mobirise.info/o">portfolio site templates</a></section><section class="cid-rh79idH31d" id="footer5-r">
 
     
 
     
 
     <div class="container">
-        <div class="media-container-row content">
-            <div class="col-md-2 col-sm-4">
-                <div class="mb-3 img-logo">
+        <div class="media-container-row">
+            <div class="col-md-3">
+                <div class="media-wrap">
                     <a href="https://iammegha.github.io/">
-                         <img src="assets/images/logo.png" alt="Mobirise">
+                       <img src="assets/images/logo.png" alt="Megha Dhingra">
                     </a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-4">
-                <p class="mb-4 mbr-fonts-style foot-title display-7">
-                    RECENT NEWS
+            <div class="col-md-9">
+                <p class="mbr-text align-right links mbr-fonts-style display-7">
+                    <a href="#" class="text-black">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#" class="text-black">TERMS</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#" class="text-black">CAREERS</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#" class="text-black">CONTACT</a>
                 </p>
-                <p class="mbr-text mbr-links-column mbr-fonts-style display-7">
-                    <a href="#" class="text-black">About us</a>
-                    <br><a href="#" class="text-black">Services</a>
-                    <br><a href="#" class="text-black">Selected Work</a>
-                    <br><a href="#" class="text-black">Get In Touch</a>
-                    <br><a href="#" class="text-black">Careers</a>
-                </p>
-            </div>
-            <div class="col-md-3 col-sm-4">
-                <p class="mb-4 mbr-fonts-style foot-title display-7">
-                    CATEGORIES
-                </p>
-                <p class="mbr-text mbr-fonts-style mbr-links-column display-7">
-                    <a href="#" class="text-black">Business</a>
-                    <br><a href="#" class="text-black">Design</a>
-                    <br><a href="#" class="text-black">Real life</a>
-                    <br><a href="#" class="text-black">Science</a>
-                    <br><a href="#" class="text-black">Tech</a>
-                </p>
-            </div>
-            <div class="col-md-4 col-sm-12">
-                <p class="mb-4 mbr-fonts-style foot-title display-7">
-                    SUBSCRIBE
-                </p>
-                <p class="mbr-text form-text mbr-fonts-style display-7">
-                    Get monthly updates and free resources.
-                </p>
-                <div class="media-container-column" data-form-type="formoid">
-                    <div data-form-alert="" hidden="" class="align-center">
-                        Thanks for filling out the form!
-                    </div>
-
-                    <form class="form-inline" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form">
-                        <input type="hidden" value="XVoNsjN46FTZscE+NYu1xljWbgtfuOVD/vlyW/rtD2j+qINkbzjvK86QtZ6gvF7E4GVdj9/i9mf6gj9jEJcnrsI3sUgnkqTnqh9jVGljzG8vwyHK0MVFYf1/2xCErNfm" data-form-email="true">
-                        <div class="form-group">
-                            <input type="email" class="form-control input-sm input-inverse my-2" name="email" required="" data-form-field="Email" placeholder="Email" id="email-footer3-k">
-                        </div>
-                        <div class="input-group-btn m-2"><button href="" class="btn btn-secondary display-4" type="submit" role="button">Subscribe</button></div>
-                    </form>
-                </div>
-
             </div>
         </div>
         <div class="footer-lower">
             <div class="media-container-row">
-                <div class="col-sm-12">
+                <div class="col-md-12">
                     <hr>
                 </div>
             </div>
-            <div class="media-container-row">
-                <div class="col-sm-6 copyright">
+            <div class="media-container-row mbr-white">
+                <div class="col-md-6 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
                         © Copyright 2019 iammegha - All Rights Reserved
                     </p>
                 </div>
+                
                 <div class="col-md-6">
                     <div class="social-list align-right">
                         <div class="soc-item">
@@ -619,11 +582,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
 </section>
-
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
